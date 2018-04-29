@@ -1,9 +1,8 @@
 counter = 0
-def loop do
+def looping do
   counter = counter + 1
   puts "Wingardium Leviosa"#your code here
 end
-end
+
 loop
-end 
   #call your method here
