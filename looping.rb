@@ -3,6 +3,7 @@ def loop do
   counter = counter + 1
   puts "Wingardium Leviosa"#your code here
 end
-end 
+end
 loop
+end 
   #call your method here
